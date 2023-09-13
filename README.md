@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ogbechiejudith
 - 👀 I’m interested in ...softtware development
-- 🌱 I’m currently learning ...Python/Frontend development
-- 💞️ I’m looking to collaborate on ...Software devolopers/ UI/UX designers/Animators
+- 🌱 I’m currently learning ...Python/Backend development
+- 💞️ I’m looking to collaborate on ...Software devolopers/ UI/UX designers/Animators/Frontend
 - 📫 How to reach me ...https://twitter.com/JudithOgbe39736  https://www.linkedin.com/in/ogbechie-judith-a46b96261/
 
 <!---
